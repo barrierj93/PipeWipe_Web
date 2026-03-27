@@ -52,7 +52,7 @@ Web application to extract, analyze, and remove metadata from files with complet
 
 ---
 
-## 🚀 Local Installation
+## Local Installation
 
 
 ### 1. Install Backend Dependencies
